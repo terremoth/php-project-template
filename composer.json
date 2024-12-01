@@ -1,5 +1,5 @@
 {
-    "name": "terremoth/",
+    "name": "terremoth/package-name",
     "description": "",
     "type": "library",
     "require": {
@@ -18,12 +18,12 @@
     "license": "GPL-3.0-or-later",
     "autoload": {
         "psr-4": {
-            "\\": "src/"
+            "Terremoth\\": "src/Terremoth"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "\\Tests\\": "tests/"
+            "Terremoth\\Tests\\": "tests/"
         }
     },
     "authors": [
