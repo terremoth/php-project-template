@@ -1,4 +1,4 @@
-# php-project-template
+# PROJECT_NAME
 My personal PHP projects template  
 
 [![CodeCov](https://codecov.io/gh/terremoth/PROJECT_NAME/graph/badge.svg?token=TOKEN)](https://app.codecov.io/gh/terremoth/PROJECT_NAME)
@@ -10,12 +10,12 @@ My personal PHP projects template
 [![License](https://img.shields.io/github/license/terremoth/vendor.svg?logo=gnu&color=41bb13)](https://github.com/terremoth/PROJECT_NAME/blob/main/LICENSE)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/terremoth/PROJECT_NAME?color=41bb13)
 
-See [demos/demo.php](demos/demo.php) for examples.
-
 ## Installation
 
 ```sh
 composer require terremoth/PROJECT_NAME
 ```
 
-
+## Documentation
+  
+See [demos/demo.php](demos/demo.php) for examples.
